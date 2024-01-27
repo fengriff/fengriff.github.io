@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>fengriff</title>
+    <link href="https://fengriff.github.io/feed.xml" rel="self" />
+    <link href="https://fengriff.github.io" />
+    <updated>2024-01-27T13:40:36+06:00</updated>
+    <author>
+        <name>fengriff</name>
+    </author>
+    <id>https://fengriff.github.io</id>
+
+    <entry>
+        <title>Бесценное начало</title>
+        <author>
+            <name>fengriff</name>
+        </author>
+        <link href="https://fengriff.github.io/bescennoe-nachalo/"/>
+        <id>https://fengriff.github.io/bescennoe-nachalo/</id>
+
+        <updated>2024-01-27T13:40:36+06:00</updated>
+            <summary>
+                <![CDATA[
+                    Новый блог. Место для хранения своих мыслей. На то чтобы разобраться с аккаунтами ушли часы...В итоге остановился на github pages. Менеджмент файлов и все прочее через Publii. Пока все.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Новый блог. Место для хранения своих мыслей. На то чтобы разобраться с аккаунтами ушли часы...В итоге остановился на github pages. Менеджмент файлов и все прочее через Publii. Пока все.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

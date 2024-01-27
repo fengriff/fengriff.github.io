@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "fengriff",
+    "description": "",
+    "home_page_url": "https://fengriff.github.io",
+    "feed_url": "https://fengriff.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "fengriff"
+    },
+    "items": [
+        {
+            "id": "https://fengriff.github.io/bescennoe-nachalo/",
+            "url": "https://fengriff.github.io/bescennoe-nachalo/",
+            "title": "Бесценное начало",
+            "summary": "Новый блог. Место для хранения своих мыслей. На то чтобы разобраться с аккаунтами ушли часы...В итоге остановился на github pages. Менеджмент файлов и все прочее через Publii. Пока все.",
+            "content_html": "<p>Новый блог. Место для хранения своих мыслей. На то чтобы разобраться с аккаунтами ушли часы...В итоге остановился на github pages. Менеджмент файлов и все прочее через Publii. Пока все.</p>",
+            "author": {
+                "name": "fengriff"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-01-27T13:40:36+06:00",
+            "date_modified": "2024-01-27T13:40:36+06:00"
+        }
+    ]
+}
