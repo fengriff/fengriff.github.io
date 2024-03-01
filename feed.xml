@@ -3,12 +3,45 @@
     <title>fengriff</title>
     <link href="https://fengriff.github.io/feed.xml" rel="self" />
     <link href="https://fengriff.github.io" />
-    <updated>2024-02-16T23:55:28+06:00</updated>
+    <updated>2024-03-02T00:04:14+05:00</updated>
     <author>
         <name>fengriff</name>
     </author>
     <id>https://fengriff.github.io</id>
 
+    <entry>
+        <title>Мой первый пиксель арт</title>
+        <author>
+            <name>fengriff</name>
+        </author>
+        <link href="https://fengriff.github.io/moy-pervyy-piksel-art-v-aseprite/"/>
+        <id>https://fengriff.github.io/moy-pervyy-piksel-art-v-aseprite/</id>
+            <category term="pixel art"/>
+
+        <updated>2024-03-02T00:04:14+05:00</updated>
+            <summary>
+                <![CDATA[
+                    Наконец-то закончил свой первый рисунок в стиле пиксель арт. На это ушло несколько часов хоть я и делал его по гайду с ютуба. Замечательный гайд! До этого я даже не пробовал рисовать базовые вещи и сразу, за один вечер нарисовал красивый космос. Мне понравилось, буду&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Наконец-то закончил свой первый рисунок в стиле пиксель арт. На это ушло несколько часов хоть я и делал его по <a href="https://www.youtube.com/watch?v=DqAa9lqT6qg" target="_blank">гайду</a> с ютуба. Замечательный гайд! До этого я даже не пробовал рисовать базовые вещи и сразу, за один вечер нарисовал красивый космос. Мне понравилось, буду рисовать еще. В честь этого можно и поспать...
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://fengriff.github.io/media/posts/5/Sprite-0001-1000-3.png" height="1600" width="2200" alt=""  sizes="100vw" srcset="https://fengriff.github.io/media/posts/5/responsive/Sprite-0001-1000-3-xs.png 300w ,https://fengriff.github.io/media/posts/5/responsive/Sprite-0001-1000-3-sm.png 480w ,https://fengriff.github.io/media/posts/5/responsive/Sprite-0001-1000-3-md.png 768w ,https://fengriff.github.io/media/posts/5/responsive/Sprite-0001-1000-3-lg.png 1024w ,https://fengriff.github.io/media/posts/5/responsive/Sprite-0001-1000-3-xl.png 1360w ,https://fengriff.github.io/media/posts/5/responsive/Sprite-0001-1000-3-2xl.png 1600w">
+      <figcaption>griff planet</figcaption>
+    </figure>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Начало конца</title>
         <author>
@@ -17,7 +50,7 @@
         <link href="https://fengriff.github.io/nachalo-konca/"/>
         <id>https://fengriff.github.io/nachalo-konca/</id>
 
-        <updated>2024-02-16T23:55:28+06:00</updated>
+        <updated>2024-02-16T22:55:28+05:00</updated>
             <summary>
                 <![CDATA[
                     Новый блог. Место для хранения своих мыслей. На то чтобы разобраться с аккаунтами ушли часы...В итоге остановился на github pages. Менеджмент файлов и все прочее через Publii. Пока все.

@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://fengriff.github.io/moy-pervyy-piksel-art-v-aseprite/",
+            "url": "https://fengriff.github.io/moy-pervyy-piksel-art-v-aseprite/",
+            "title": "Мой первый пиксель арт",
+            "summary": "Наконец-то закончил свой первый рисунок в стиле пиксель арт. На это ушло несколько часов хоть я и делал его по гайду с ютуба. Замечательный гайд! До этого я даже не пробовал рисовать базовые вещи и сразу, за один вечер нарисовал красивый космос. Мне понравилось, буду&hellip;",
+            "content_html": "\n  <p>\n    Наконец-то закончил свой первый рисунок в стиле пиксель арт. На это ушло несколько часов хоть я и делал его по <a href=\"https://www.youtube.com/watch?v=DqAa9lqT6qg\" target=\"_blank\">гайду</a> с ютуба. Замечательный гайд! До этого я даже не пробовал рисовать базовые вещи и сразу, за один вечер нарисовал красивый космос. Мне понравилось, буду рисовать еще. В честь этого можно и поспать...\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://fengriff.github.io/media/posts/5/Sprite-0001-1000-3.png\" height=\"1600\" width=\"2200\" alt=\"\"  sizes=\"100vw\" srcset=\"https://fengriff.github.io/media/posts/5/responsive/Sprite-0001-1000-3-xs.png 300w ,https://fengriff.github.io/media/posts/5/responsive/Sprite-0001-1000-3-sm.png 480w ,https://fengriff.github.io/media/posts/5/responsive/Sprite-0001-1000-3-md.png 768w ,https://fengriff.github.io/media/posts/5/responsive/Sprite-0001-1000-3-lg.png 1024w ,https://fengriff.github.io/media/posts/5/responsive/Sprite-0001-1000-3-xl.png 1360w ,https://fengriff.github.io/media/posts/5/responsive/Sprite-0001-1000-3-2xl.png 1600w\">\n      <figcaption>griff planet</figcaption>\n    </figure>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "fengriff"
+            },
+            "tags": [
+                   "pixel art"
+            ],
+            "date_published": "2024-03-01T23:59:42+05:00",
+            "date_modified": "2024-03-02T00:04:14+05:00"
+        },
+        {
             "id": "https://fengriff.github.io/nachalo-konca/",
             "url": "https://fengriff.github.io/nachalo-konca/",
             "title": "Начало конца",
@@ -20,8 +35,8 @@
             },
             "tags": [
             ],
-            "date_published": "2024-01-27T13:40:36+06:00",
-            "date_modified": "2024-02-16T23:55:28+06:00"
+            "date_published": "2024-01-27T12:40:36+05:00",
+            "date_modified": "2024-02-16T22:55:28+05:00"
         }
     ]
 }
